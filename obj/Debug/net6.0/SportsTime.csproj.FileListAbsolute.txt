@@ -1,0 +1,15 @@
+C:\Users\missh\source\repos\CIT195\SportsTime\SportsTime\bin\Debug\net6.0\SportsTime.exe
+C:\Users\missh\source\repos\CIT195\SportsTime\SportsTime\bin\Debug\net6.0\SportsTime.deps.json
+C:\Users\missh\source\repos\CIT195\SportsTime\SportsTime\bin\Debug\net6.0\SportsTime.runtimeconfig.json
+C:\Users\missh\source\repos\CIT195\SportsTime\SportsTime\bin\Debug\net6.0\SportsTime.dll
+C:\Users\missh\source\repos\CIT195\SportsTime\SportsTime\bin\Debug\net6.0\SportsTime.pdb
+C:\Users\missh\source\repos\CIT195\SportsTime\SportsTime\obj\Debug\net6.0\SportsTime.csproj.AssemblyReference.cache
+C:\Users\missh\source\repos\CIT195\SportsTime\SportsTime\obj\Debug\net6.0\SportsTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\missh\source\repos\CIT195\SportsTime\SportsTime\obj\Debug\net6.0\SportsTime.AssemblyInfoInputs.cache
+C:\Users\missh\source\repos\CIT195\SportsTime\SportsTime\obj\Debug\net6.0\SportsTime.AssemblyInfo.cs
+C:\Users\missh\source\repos\CIT195\SportsTime\SportsTime\obj\Debug\net6.0\SportsTime.csproj.CoreCompileInputs.cache
+C:\Users\missh\source\repos\CIT195\SportsTime\SportsTime\obj\Debug\net6.0\SportsTime.dll
+C:\Users\missh\source\repos\CIT195\SportsTime\SportsTime\obj\Debug\net6.0\refint\SportsTime.dll
+C:\Users\missh\source\repos\CIT195\SportsTime\SportsTime\obj\Debug\net6.0\SportsTime.pdb
+C:\Users\missh\source\repos\CIT195\SportsTime\SportsTime\obj\Debug\net6.0\SportsTime.genruntimeconfig.cache
+C:\Users\missh\source\repos\CIT195\SportsTime\SportsTime\obj\Debug\net6.0\ref\SportsTime.dll
